@@ -52,7 +52,7 @@
     "@stdlib/ml-base-sgd-penalty-resolve-enum": "github:stdlib-js/ml-base-sgd-penalty-resolve-enum#main",
     "@stdlib/ml-base-sgd-penalty-resolve-str": "github:stdlib-js/ml-base-sgd-penalty-resolve-str#main",
     "@stdlib/object-assign": "^0.2.3",
-    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.4",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-write-accessor": "^0.2.3",
